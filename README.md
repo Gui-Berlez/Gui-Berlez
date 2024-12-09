@@ -132,7 +132,7 @@ Me chamo Guilherme Jacob Berlez, tenho 20 anos e sou natural do Paran√°. Conclu√
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Gui-Berlez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
