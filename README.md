@@ -122,7 +122,7 @@ Me chamo Guilherme Jacob Berlez, tenho 20 anos e sou natural do ParanÃ¡. ConcluÃ
     style="padding-right: 10px;"   
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-
+<!--
 <br/>
 <br/>
 
@@ -145,4 +145,4 @@ Me chamo Guilherme Jacob Berlez, tenho 20 anos e sou natural do ParanÃ¡. ConcluÃ
   />
 
 </p>
-
+-->
