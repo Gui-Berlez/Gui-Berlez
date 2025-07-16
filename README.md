@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Guilherme Jacob Berlez, tenho 20 anos e sou natural do Paraná. Concluí o ensino médio no CEEP Newton Freire Maia, com o curso de Sistemas de Energía Renovável. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Unibrasil. Sou apaixonado por tecnologia e me aprimoro cada dia mais, criando projetos web e programas de usos distintos.
+Me chamo Guilherme Jacob Berlez, tenho 21 anos e sou natural do Paraná. Concluí o ensino médio no CEEP Newton Freire Maia, com o curso de Sistemas de Energía Renovável. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Unibrasil. Sou apaixonado por tecnologia e me aprimoro cada dia mais, criando projetos web e programas de usos distintos.
 
 <p align="left">
     <!-- <a href="https://github.com/Gui-Berlez?tab=repositories&sort=stargazers">
