@@ -2,7 +2,10 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Guilherme Jacob Berlez, tenho 21 anos e sou natural do Paraná. Concluí o ensino médio no CEEP Newton Freire Maia, com o curso de Sistemas de Energía Renovável. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Unibrasil. Sou apaixonado por tecnologia e me aprimoro cada dia mais, criando projetos web e programas de usos distintos.
+🎓 Me chamo **Guilherme Jacob Berlez**, tenho 21 anos e sou natural do Paraná.  
+📚 Concluí o ensino médio no CEEP Newton Freire Maia, com o curso de Sistemas de Energia Renovável.  
+💡 Atualmente, curso **Análise e Desenvolvimento de Sistemas** na Universidade Unibrasil.  
+🚀 Sou apaixonado por tecnologia e estou sempre aprimorando minhas habilidades através de projetos web e softwares diversos.
 
 <p align="left">
     <!-- <a href="https://github.com/Gui-Berlez?tab=repositories&sort=stargazers">
@@ -122,13 +125,12 @@ Me chamo Guilherme Jacob Berlez, tenho 21 anos e sou natural do Paraná. Conclu�
     style="padding-right: 10px;"   
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-<!--
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
+<!--
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -136,7 +138,9 @@ Me chamo Guilherme Jacob Berlez, tenho 21 anos e sou natural do Paraná. Conclu�
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Gui-Berlez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+-->
 
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -144,5 +148,7 @@ Me chamo Guilherme Jacob Berlez, tenho 21 anos e sou natural do Paraná. Conclu�
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Berlez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+  <!-- Interessante. Pesquisar sobre trofeus do GitHub 
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=Gui-Berlez&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+  -->  
 </p>
--->
