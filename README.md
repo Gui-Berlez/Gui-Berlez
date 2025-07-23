@@ -141,14 +141,13 @@
 -->
 
 <p>
-     <!--
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Berlez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  -->  
+
   <!-- Interessante. Pesquisar sobre trofeus do GitHub 
   [![Trophy](https://github-profile-trophy.vercel.app/?username=Gui-Berlez&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
   -->  
