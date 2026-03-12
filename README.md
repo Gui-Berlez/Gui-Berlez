@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Fullstack`**
 
-🎓 Me chamo **Guilherme Jacob Berlez**, tenho 21 anos e sou natural do Paraná.  
+🎓 Me chamo **Guilherme Jacob Berlez**, tenho 22 anos e sou natural do Paraná.  
 📚 Concluí o ensino médio no CEEP Newton Freire Maia, com o curso de Sistemas de Energia Renovável.  
-💡 Atualmente, curso **Análise e Desenvolvimento de Sistemas** na Universidade Unibrasil.  
+💡 Sou formado no curso de **Análise e Desenvolvimento de Sistemas** na Universidade Unibrasil.  
 🚀 Sou apaixonado por tecnologia e estou sempre aprimorando minhas habilidades através de projetos web e softwares diversos.
 
 <p align="left">
