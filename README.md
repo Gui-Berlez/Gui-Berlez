@@ -174,5 +174,9 @@
 
 ###
 
-<!-- Pacman -->
+<!-- Pacman 
 ![Pacman](https://raw.githubusercontent.com/Gui-Berlez/Gui-Berlez/output/pacman-contribution-graph-dark.svg)
+-->
+<!-- Sneak -->
+![Snake](https://raw.githubusercontent.com/Gui-Berlez/Gui-Berlez/output/github-contribution-grid-snake-dark.svg)
+
