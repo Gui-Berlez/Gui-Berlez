@@ -175,5 +175,4 @@
 ###
 
 <!-- Pacman -->
-
-![Pacman](https://raw.githubusercontent.com/Gui-Berlez/Gui-Berlez/output/github-contribution-grid-pacman.svg)
+![Pacman](https://raw.githubusercontent.com/Gui-Berlez/Gui-Berlez/output/pacman-contribution-graph-dark.svg)
