@@ -47,14 +47,14 @@
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-Berlez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Berlez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
-
+-->
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gui-Berlez&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" height="180em"/>
@@ -63,6 +63,7 @@
 
 ---
 
+<!--
 ## 🏗️ Projetos em Destaque
 
 <div align="center">
@@ -70,10 +71,11 @@
 [![TodoAPI](https://github-readme-stats.vercel.app/api/pin/?username=Gui-Berlez&repo=TodoAPI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/Gui-Berlez/TodoAPI)
 
 </div>
+-->
 
-> 💡 *Mais projetos chegando em breve — stay tuned!*
-
+<!--
 ---
+-->
 
 ## 📈 Atividade de Contribuições
 
@@ -97,10 +99,12 @@
 
 ---
 
+> 💡 *Mais projetos chegando em breve — stay tuned!*
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>⭐ Se algum projeto te ajudou, considera deixar uma estrela — faz toda a diferença!</sub>
+<!-- <sub>⭐ Se algum projeto te ajudou, considera deixar uma estrela — faz toda a diferença!</sub> -->
 
 </div>
