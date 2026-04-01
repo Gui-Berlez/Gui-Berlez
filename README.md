@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 👋 Olá, Mundo! Meu nome é Guilherme Jacob Berlez
+### 👋 Olá, Mundo! Meu nome é **Guilherme Jacob Berlez**
 
 💻 Fullstack Developer apaixonado por tecnologia e resolução de problemas  
 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** — Universidade Unibrasil  
