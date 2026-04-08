@@ -87,7 +87,7 @@
 
 ---
 
-## 🤝 Vamos nos conectar!
+## 🤝 Minhas redes!
 
 <div align="center">
 
