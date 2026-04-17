@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <!--
 <div align="center">
 
@@ -77,7 +77,7 @@
 ---
 -->
 
-## 📈 Atividade de Contribuições
+## Atividade de Contribuições
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 ---
 
-## 🤝 Minhas redes!
+## Minhas redes!
 
 <div align="center">
 
