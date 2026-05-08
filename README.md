@@ -103,6 +103,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer&animation=fadeIn" width="100%"/>
 
-<!-- <sub>⭐ Se algum projeto te ajudou, considera deixar uma estrela — faz toda a diferença!</sub> -->
+<!-- <sub>⭐ Se algum projeto te ajudou, considera deixar uma estrela — faz toda a diferença!</sub>  -->
 
 </div>
